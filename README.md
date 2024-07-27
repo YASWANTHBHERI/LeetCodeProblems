@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
