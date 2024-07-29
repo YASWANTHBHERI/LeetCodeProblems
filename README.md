@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0135-candy) |
+| [0238-product-of-array-except-self](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0135-candy) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
