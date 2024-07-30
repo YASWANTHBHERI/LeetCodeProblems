@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
@@ -87,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
