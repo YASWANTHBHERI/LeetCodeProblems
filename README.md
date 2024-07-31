@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+## Simulation
+|  |
+| ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1505-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
