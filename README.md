@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Binary Search
 |  |
@@ -107,5 +109,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1505-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
