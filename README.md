@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1205-defanging-an-ip-address) |
