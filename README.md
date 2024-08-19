@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2502-sort-the-people) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1505-create-target-array-in-the-given-order) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
