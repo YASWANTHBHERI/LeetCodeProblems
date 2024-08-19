@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [1241-decompress-run-length-encoded-list](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1241-decompress-run-length-encoded-list) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0782-jewels-and-stones) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/3412-permutation-difference-between-two-strings) |
