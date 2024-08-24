@@ -150,12 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2406-decode-the-message](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2502-sort-the-people) |
+| [2886-faulty-keyboard](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2886-faulty-keyboard) |
 | [3412-permutation-difference-between-two-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1505-create-target-array-in-the-given-order) |
+| [2886-faulty-keyboard](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2886-faulty-keyboard) |
 ## Bit Manipulation
 |  |
 | ------- |
