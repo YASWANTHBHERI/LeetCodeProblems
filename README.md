@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0179-largest-number) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1797-goal-parser-interpretation) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1899-count-items-matching-a-rule](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1970-sorting-the-sentence) |
