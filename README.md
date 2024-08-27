@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1651-shuffle-string) |
+| [1833-find-the-highest-altitude](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2714-left-and-right-sum-differences) |
 ## String
 |  |
