@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1833-find-the-highest-altitude) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2714-left-and-right-sum-differences](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2714-left-and-right-sum-differences) |
 ## String
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2406-decode-the-message](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2406-decode-the-message) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2502-sort-the-people) |
 | [2886-faulty-keyboard](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
