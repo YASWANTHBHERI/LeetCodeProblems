@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1833-find-the-highest-altitude](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1944-truncate-sentence) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
