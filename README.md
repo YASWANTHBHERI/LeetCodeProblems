@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0228-summary-ranges](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
@@ -190,5 +191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0136-single-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
