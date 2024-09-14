@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
