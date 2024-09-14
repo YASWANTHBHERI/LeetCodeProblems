@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1241-decompress-run-length-encoded-list) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1970-sorting-the-sentence) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0782-jewels-and-stones) |
