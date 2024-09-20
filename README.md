@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [1241-decompress-run-length-encoded-list](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1241-decompress-run-length-encoded-list) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Prefix Sum
