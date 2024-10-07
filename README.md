@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1944-truncate-sentence) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2226-rings-and-rods](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2226-rings-and-rods) |
 | [2406-decode-the-message](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2406-decode-the-message) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Greedy
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1651-shuffle-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1899-count-items-matching-a-rule](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1899-count-items-matching-a-rule) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0136-single-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## String Matching
 |  |
