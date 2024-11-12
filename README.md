@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -264,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0206-reverse-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
