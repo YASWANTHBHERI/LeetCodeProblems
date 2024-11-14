@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0605-can-place-flowers) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0792-binary-search) |
 | [1241-decompress-run-length-encoded-list](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1241-decompress-run-length-encoded-list) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0441-arranging-coins) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
