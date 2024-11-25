@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0403-frog-jump](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0403-frog-jump) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0605-can-place-flowers) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0403-frog-jump](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0403-frog-jump) |
 ## Math
 |  |
 | ------- |
