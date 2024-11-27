@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0403-frog-jump](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0403-frog-jump) |
+| [0414-third-maximum-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0605-can-place-flowers) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1970-sorting-the-sentence) |
