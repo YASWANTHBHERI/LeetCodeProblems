@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
