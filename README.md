@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0782-jewels-and-stones) |
