@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0792-binary-search) |
 | [1241-decompress-run-length-encoded-list](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1241-decompress-run-length-encoded-list) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1970-sorting-the-sentence) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Memoization
