@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0054-spiral-matrix) |
+| [0495-teemo-attacking](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0495-teemo-attacking) |
 | [1505-create-target-array-in-the-given-order](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2886-faulty-keyboard](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2886-faulty-keyboard) |
