@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
 |  |
 | ------- |
