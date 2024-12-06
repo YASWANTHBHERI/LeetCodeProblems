@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0441-arranging-coins) |
+| [0598-range-addition-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
