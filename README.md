@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1833-find-the-highest-altitude) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/1944-truncate-sentence) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/2132-convert-1d-array-into-2d-array) |
