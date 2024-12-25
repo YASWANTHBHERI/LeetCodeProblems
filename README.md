@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0441-arranging-coins) |
 | [0598-range-addition-ii](https://github.com/YASWANTHBHERI/LeetCodeProblems/tree/master/0598-range-addition-ii) |
