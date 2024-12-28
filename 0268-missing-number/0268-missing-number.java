@@ -1,12 +1,14 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        Map<Integer,Integer>hmap = new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-                hmap.put(nums[i],nums[i]);
-        }
-        for(int i=1;i<=nums.length;i++){
-            if(!hmap.containsKey(i)) return i;
-        }
-        return 0;
+       int n = nums.length;
+       int sum = 0;
+       for(int i=0;i<nums.length;i++){
+        sum+=nums[i];
+       }
+       int expectedSum = (n*(n+1))/2; //6
+       //System.out.println(expectedSum);
+       //System.out.println(sum);
+       int missingNumber = expectedSum - sum; // 6 - 4
+       return missingNumber;
     }
 }
